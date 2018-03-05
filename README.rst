@@ -16,14 +16,22 @@ Get Suidonet data
 Usage
 -----
 
+TBD
+
 Installation
 ------------
+
+TBD
 
 Requirements
 ^^^^^^^^^^^^
 
+TBD
+
 Compatibility
 -------------
+
+TBD
 
 Licence
 -------
