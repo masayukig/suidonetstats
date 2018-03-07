@@ -9,19 +9,29 @@ suidonetstats
    :target: https://travis-ci.org/masayukig/suidonetstats
    :alt: Latest Travis CI build status
 
+NOTE: This is still heavily under development/PoC phase.
+
 Get Suidonet data
 
 Usage
 -----
 
+TBD
+
 Installation
 ------------
+
+TBD
 
 Requirements
 ^^^^^^^^^^^^
 
+TBD
+
 Compatibility
 -------------
+
+TBD
 
 Licence
 -------
