@@ -11,10 +11,14 @@ suidonetstats
 
 NOTE: This is still heavily under development/PoC phase.
 
-Get Suidonet data
+Get `Suidonet`_ data
+
+.. _Suidonet: https://suidonet.waterworks.metro.tokyo.jp/inet-service/
 
 Usage
 -----
+
+NO CODE EXISTS YET
 
 TBD
 
