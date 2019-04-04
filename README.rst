@@ -11,7 +11,7 @@ suidonetstats
 
 NOTE: This is still heavily under development/PoC phase.
 
-Get `Suidonet`_ data
+Get `Suidonet`_ data and convert it to various formats such as txt, csv, json.
 
 .. _Suidonet: https://suidonet.waterworks.metro.tokyo.jp/inet-service/
 
@@ -19,6 +19,11 @@ Usage
 -----
 
 NO CODE EXISTS YET
+
+That will be like this::
+
+ $ suidonet get 201904
+ 567,538,29,5432
 
 TBD
 
